@@ -83,7 +83,7 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = "https://envs.sh/aIP.jpg/IMG20250608353.jpg"
+START_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
 PING_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
 PLAYLIST_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
 STATS_IMG_URL = "https://envs.sh/aYZ.jpg/IMG20250608719.jpg"
